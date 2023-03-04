@@ -1,6 +1,6 @@
 # Sudno V2.0
 
-![Darkmap](https://user-images.githubusercontent.com/85587928/221942728-9e63ea79-b4eb-40e9-a666-12fa29acf648.gif)
+![Sudno](https://user-images.githubusercontent.com/85587928/222930828-ace44f74-6e8b-42a7-9aa6-8d265178f05e.gif)
 
 # 💻 Install on Linux 💻
 
